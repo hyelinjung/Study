@@ -1,0 +1,10 @@
+package page_13;
+
+public class OnePair<K,V> extends Pair<K, V> {
+
+	public OnePair(K k, V v) {
+		super(k, v);
+	}
+	
+
+}

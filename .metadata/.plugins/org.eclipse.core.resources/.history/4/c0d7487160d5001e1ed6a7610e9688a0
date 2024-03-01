@@ -1,0 +1,9 @@
+package page_13;
+
+public class Util<T> {
+	
+	public static T getValue() {
+		
+	}
+
+}
