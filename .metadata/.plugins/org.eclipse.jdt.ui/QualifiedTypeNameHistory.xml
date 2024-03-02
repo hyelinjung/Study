@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="page_13.Container"/>
     <fullyQualifiedTypeName name="K"/>
     <fullyQualifiedTypeName name="V"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="page_13.Util"/>
     <fullyQualifiedTypeName name="page_13.ChildPair"/>
     <fullyQualifiedTypeName name="page_13.OnePair"/>
@@ -12,4 +11,10 @@
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="page_14.Boom4"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="page_11.SuffiException"/>
+    <fullyQualifiedTypeName name="page_11.Bank"/>
 </qualifiedTypeNameHistroy>
